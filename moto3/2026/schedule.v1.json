@@ -1,0 +1,807 @@
+{
+  "event_name": {
+    "01fp1": "Free Practice 1",
+    "02p": "Practice",
+    "03fp2": "Free Practice 2",
+    "04q1": "Qualifying 1",
+    "05q2": "Qualifying 2",
+    "06r": "Race"
+  },
+  "rounds": [
+    {
+      "code": "01",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-02-27T02:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-02-27T06:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-02-28T01:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-02-28T05:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-02-28T06:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-03-01T07:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "PT Grand Prix of Thailand"
+    },
+    {
+      "code": "02",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-03-20T12:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-03-20T16:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-03-21T11:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-03-21T15:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-03-21T16:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-03-22T17:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Estrella Galicia 0,0 Grand Prix of Brazil"
+    },
+    {
+      "code": "03",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-03-27T14:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-03-27T18:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-03-28T13:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-03-28T17:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-03-28T18:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-03-29T19:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Red Bull Grand Prix of the United States"
+    },
+    {
+      "code": "04",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-04-24T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-04-24T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-04-25T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-04-25T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-04-25T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-04-26T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Estrella Galicia 0,0 Grand Prix of Spain"
+    },
+    {
+      "code": "05",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-05-08T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-05-08T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-05-09T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-05-09T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-05-09T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-05-10T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Michelin Grand Prix of France"
+    },
+    {
+      "code": "06",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-05-15T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-05-15T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-05-16T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-05-16T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-05-16T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-05-17T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Monster Energy Grand Prix of Catalunya"
+    },
+    {
+      "code": "07",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-05-29T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-05-29T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-05-30T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-05-30T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-05-30T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-05-31T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Brembo Grand Prix of Italy"
+    },
+    {
+      "code": "08",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-06-05T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-06-05T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-06-06T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-06-06T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-06-06T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-06-07T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Grand Prix of Hungary"
+    },
+    {
+      "code": "09",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-06-19T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-06-19T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-06-20T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-06-20T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-06-20T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-06-21T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Monster Energy Grand Prix of Czechia"
+    },
+    {
+      "code": "10",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-06-26T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-06-26T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-06-27T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-06-27T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-06-27T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-06-28T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Tissot Grand Prix of the Netherlands"
+    },
+    {
+      "code": "11",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-07-10T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-07-10T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-07-11T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-07-11T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-07-11T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-07-12T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Liqui Moly Grand Prix of Germany"
+    },
+    {
+      "code": "12",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-08-07T08:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-08-07T12:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-08-08T07:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-08-08T11:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-08-08T12:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-08-09T13:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Qatar Airways Grand Prix of Great Britain"
+    },
+    {
+      "code": "13",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-08-28T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-08-28T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-08-29T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-08-29T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-08-29T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-08-30T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Michelin Grand Prix of Aragon"
+    },
+    {
+      "code": "14",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-09-11T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-09-11T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-09-12T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-09-12T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-09-12T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-09-13T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Red Bull Grand Prix of San Marino and the Rimini Riviera"
+    },
+    {
+      "code": "15",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-09-18T07:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-09-18T11:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-09-19T06:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-09-19T10:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-09-19T11:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-09-20T12:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Qatar Airways Grand Prix of Austria"
+    },
+    {
+      "code": "16",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-10-02T00:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-10-02T04:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-10-02T23:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-10-03T03:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-10-03T04:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-10-04T05:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Motul Grand Prix of Japan"
+    },
+    {
+      "code": "17",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-10-09T02:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-10-09T06:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-10-10T01:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-10-10T05:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-10-10T06:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-10-11T07:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Pertamina Grand Prix of Indonesia"
+    },
+    {
+      "code": "18",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-10-22T22:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-10-23T02:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-10-23T21:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-10-24T01:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-10-24T02:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-10-25T03:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Red Bull Grand Prix of Australia"
+    },
+    {
+      "code": "19",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-10-30T01:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-10-30T05:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-10-31T00:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-10-31T04:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-10-31T05:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-11-01T06:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Petronas Grand Prix of Malaysia"
+    },
+    {
+      "code": "20",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-11-06T06:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-11-06T10:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-11-07T05:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-11-07T09:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-11-07T10:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-11-08T11:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Qatar Airways Grand Prix of Qatar"
+    },
+    {
+      "code": "21",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-11-20T09:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-11-20T13:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-11-21T08:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-11-21T12:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-11-21T13:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-11-22T14:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Repsol Grand Prix of Portugal"
+    },
+    {
+      "code": "22",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-11-27T08:00:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02p",
+          "date_time_utc": "2026-11-27T12:15:00Z",
+          "duration": 35
+        },
+        {
+          "code": "03fp2",
+          "date_time_utc": "2026-11-28T07:40:00Z",
+          "duration": 30
+        },
+        {
+          "code": "04q1",
+          "date_time_utc": "2026-11-28T11:45:00Z",
+          "duration": 15
+        },
+        {
+          "code": "05q2",
+          "date_time_utc": "2026-11-28T12:10:00Z",
+          "duration": 15
+        },
+        {
+          "code": "06r",
+          "date_time_utc": "2026-11-29T13:00:00Z",
+          "duration": 34
+        }
+      ],
+      "name": "Motul Grand Prix of Valencia"
+    }
+  ],
+  "schema_version": 1,
+  "season_code": "2026",
+  "topic_code": "moto3"
+}

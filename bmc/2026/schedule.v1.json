@@ -1,0 +1,200 @@
+{
+  "event_name": {
+    "01fp1": "Free Practice 1",
+    "02fp2": "Free Practice 2",
+    "03q": "Qualifying",
+    "04r1": "Race 1",
+    "05r2": "Race 2"
+  },
+  "rounds": [
+    {
+      "code": "01",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-03-27T17:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-03-27T22:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-03-28T17:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-03-28T21:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-03-29T20:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Red Bull Grand Prix of the United States"
+    },
+    {
+      "code": "02",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-05-29T10:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-05-29T15:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-05-30T10:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-05-30T14:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-05-31T13:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Brembo Grand Prix of Italy"
+    },
+    {
+      "code": "03",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-06-26T10:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-06-26T15:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-06-27T10:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-06-27T14:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-06-28T13:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Tissot Grand Prix of the Netherlands"
+    },
+    {
+      "code": "04",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-08-07T11:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-08-07T16:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-08-08T11:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-08-08T15:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-08-09T14:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Qatar Airways Grand Prix of Great Britain"
+    },
+    {
+      "code": "05",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-08-28T10:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-08-28T15:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-08-29T10:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-08-29T14:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-08-30T13:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Michelin Grand Prix of Aragon"
+    },
+    {
+      "code": "06",
+      "events": [
+        {
+          "code": "01fp1",
+          "date_time_utc": "2026-09-18T10:40:00Z",
+          "duration": 35
+        },
+        {
+          "code": "02fp2",
+          "date_time_utc": "2026-09-18T15:05:00Z",
+          "duration": 30
+        },
+        {
+          "code": "03q",
+          "date_time_utc": "2026-09-19T10:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-09-19T14:10:00Z",
+          "duration": 20
+        },
+        {
+          "code": "05r2",
+          "date_time_utc": "2026-09-20T13:30:00Z",
+          "duration": 20
+        }
+      ],
+      "name": "Qatar Airways Grand Prix of Austria"
+    }
+  ],
+  "schema_version": 1,
+  "season_code": "2026",
+  "topic_code": "bmc"
+}

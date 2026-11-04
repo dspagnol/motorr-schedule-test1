@@ -1,0 +1,658 @@
+{
+  "event_name": {
+    "01epc": "Early-Preliminary Card",
+    "02pc": "Preliminary Card",
+    "03mc": "Main Card"
+  },
+  "rounds": [
+    {
+      "code": "20260124",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-01-24T20:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-01-24T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-01-25T01:00:00Z"
+        }
+      ],
+      "name": "UFC 324: Gaethje vs. Pimblett"
+    },
+    {
+      "code": "20260201",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-02-01T20:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-02-01T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-02-02T01:00:00Z"
+        }
+      ],
+      "name": "UFC 325: Volkanovski vs. Lopes 2"
+    },
+    {
+      "code": "20260207",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-02-07T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-02-08T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 266: Bautista vs. Oliveira"
+    },
+    {
+      "code": "20260221",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-02-21T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-02-22T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 267: Strickland vs. Hernandez"
+    },
+    {
+      "code": "20260228",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-02-28T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-03-01T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 268: Moreno vs. Kavanagh"
+    },
+    {
+      "code": "20260307",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-03-07T20:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-03-07T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-03-08T01:00:00Z"
+        }
+      ],
+      "name": "UFC 326: Holloway vs. Oliveira 2"
+    },
+    {
+      "code": "20260314",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-03-14T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-03-15T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 269: Emmett vs. Vallejos"
+    },
+    {
+      "code": "20260321",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-03-21T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-03-22T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 270: Evloev vs. Murphy"
+    },
+    {
+      "code": "20260328",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-03-28T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-03-29T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 271: Adesanya vs. Pyfer"
+    },
+    {
+      "code": "20260404",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-04-04T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-04-05T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 272: Moicano vs. Duncan"
+    },
+    {
+      "code": "20260411",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-04-11T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-04-11T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-04-12T00:00:00Z"
+        }
+      ],
+      "name": "UFC 327: Proch\u00e1zka vs. Ulberg"
+    },
+    {
+      "code": "20260418",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-04-18T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-04-19T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 273: Burns vs. Malott"
+    },
+    {
+      "code": "20260425",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-04-25T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-04-26T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 274: Sterling vs. Zalal"
+    },
+    {
+      "code": "20260502",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-05-02T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-05-03T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 275: Della Maddalena vs. Prates"
+    },
+    {
+      "code": "20260509",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-05-09T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-05-09T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-05-10T00:00:00Z"
+        }
+      ],
+      "name": "UFC 328: Chimaev vs. Strickland"
+    },
+    {
+      "code": "20260516",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-05-16T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-05-17T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 276: Allen vs. Costa"
+    },
+    {
+      "code": "20260530",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-05-30T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-05-31T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 277: Song vs. Figueiredo"
+    },
+    {
+      "code": "20260606",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-06-06T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-06-07T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 278: Muhammad vs. Bonfim"
+    },
+    {
+      "code": "20260614",
+      "events": [
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-06-15T00:00:00Z"
+        }
+      ],
+      "name": "UFC Freedom 250"
+    },
+    {
+      "code": "20260620",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-06-20T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-06-21T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 279: Kape vs. Horiguchi"
+    },
+    {
+      "code": "20260627",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-06-27T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-06-28T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 280: Fiziev vs. Torres"
+    },
+    {
+      "code": "20260711",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-07-11T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-07-11T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-07-12T00:00:00Z"
+        }
+      ],
+      "name": "UFC 329: McGregor vs. Holloway 2"
+    },
+    {
+      "code": "20260718",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-07-18T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-07-19T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 281: du Plessis vs. Usman"
+    },
+    {
+      "code": "20260725",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-07-25T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-07-26T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 282: Ankalaev vs. Guskov"
+    },
+    {
+      "code": "20260801",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-08-01T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-08-02T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 283: Medi\u0107 vs. Rodriguez"
+    },
+    {
+      "code": "20260808",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-08-08T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-08-09T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 284: Gamrot vs. Salkilld"
+    },
+    {
+      "code": "20260815",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-08-15T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-08-15T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-08-16T00:00:00Z"
+        }
+      ],
+      "name": "UFC 330: Makhachev vs. Machado Garry"
+    },
+    {
+      "code": "20260822",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-08-22T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-08-23T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 285: Hernandez vs. Rodrigues"
+    },
+    {
+      "code": "20260829",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-08-29T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-08-30T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 286: Nurmagomedov vs. Song"
+    },
+    {
+      "code": "20260905",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-09-05T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-09-06T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 287: Hooker vs. Parnasse"
+    },
+    {
+      "code": "20260912",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-09-12T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-09-13T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 288: Silva vs. Delgado"
+    },
+    {
+      "code": "20260919",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-09-19T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-09-19T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-09-20T00:00:00Z"
+        }
+      ],
+      "name": "UFC 331: Van vs. Pantoja 2"
+    },
+    {
+      "code": "20260926",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-09-26T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-09-27T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 289: Rosas Jr. vs. Barcelos"
+    },
+    {
+      "code": "20261003",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-10-03T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-10-03T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-10-04T00:00:00Z"
+        }
+      ],
+      "name": "UFC 332: Silva vs. Wang"
+    },
+    {
+      "code": "20261010",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-10-10T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-10-11T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 290: Allen vs. Duncan"
+    },
+    {
+      "code": "20261017",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-10-17T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-10-18T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 291: Buckley vs. Malott"
+    },
+    {
+      "code": "20261024",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-10-24T19:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-10-24T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-10-25T00:00:00Z"
+        }
+      ],
+      "name": "UFC 333: Volkanovski vs. Evloev"
+    },
+    {
+      "code": "20261031",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-10-31T21:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-11-01T00:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 292: Moicano vs. Nolan"
+    },
+    {
+      "code": "20261107",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-11-07T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-11-08T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night: Cortes-Acosta vs. Walker"
+    },
+    {
+      "code": "20261114",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-11-14T20:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-11-14T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-11-15T01:00:00Z"
+        }
+      ],
+      "name": "UFC 334: Gane vs. Hokit"
+    },
+    {
+      "code": "20261121",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-11-21T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-11-22T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 294: Proch\u00e1zka vs. Stirling"
+    },
+    {
+      "code": "20261205",
+      "events": [
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-12-05T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-12-06T01:00:00Z"
+        }
+      ],
+      "name": "UFC Fight Night 295"
+    },
+    {
+      "code": "20261212",
+      "events": [
+        {
+          "code": "01epc",
+          "date_time_utc": "2026-12-12T20:00:00Z"
+        },
+        {
+          "code": "02pc",
+          "date_time_utc": "2026-12-12T22:00:00Z"
+        },
+        {
+          "code": "03mc",
+          "date_time_utc": "2026-12-13T01:00:00Z"
+        }
+      ],
+      "name": "UFC 335: Oliveira vs. Lopes"
+    }
+  ],
+  "schema_version": 1,
+  "season_code": "2026",
+  "topic_code": "ufc"
+}
