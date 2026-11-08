@@ -1,0 +1,195 @@
+{
+  "event_name": {
+    "01fp": "Practice",
+    "02s": "Superpole",
+    "03wu1": "Warm Up 1",
+    "04r1": "Race 1",
+    "05wu2": "Warm Up 2",
+    "06r2": "Race 2"
+  },
+  "rounds": [
+    {
+      "code": "01",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-03-27T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-03-27T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-03-28T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-03-28T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-03-29T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-03-29T13:00:00Z"
+        }
+      ],
+      "name": "Portuguese Round"
+    },
+    {
+      "code": "02",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-04-17T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-04-17T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-04-18T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-04-18T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-04-19T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-04-19T13:00:00Z"
+        }
+      ],
+      "name": "Dutch Round"
+    },
+    {
+      "code": "03",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-05-01T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-05-01T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-05-02T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-05-02T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-05-03T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-05-03T13:00:00Z"
+        }
+      ],
+      "name": "Hungarian Round"
+    },
+    {
+      "code": "04",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-06-12T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-06-12T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-06-13T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-06-13T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-06-14T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-06-14T13:00:00Z"
+        }
+      ],
+      "name": "Emilia-Romagna Round"
+    },
+    {
+      "code": "05",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-07-10T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-07-10T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-07-11T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-07-11T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-07-12T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-07-12T13:00:00Z"
+        }
+      ],
+      "name": "UK Round"
+    },
+    {
+      "code": "06",
+      "events": [
+        {
+          "code": "01fp",
+          "date_time_utc": "2026-10-16T08:00:00Z"
+        },
+        {
+          "code": "02s",
+          "date_time_utc": "2026-10-16T12:00:00Z"
+        },
+        {
+          "code": "03wu1",
+          "date_time_utc": "2026-10-17T08:00:00Z"
+        },
+        {
+          "code": "04r1",
+          "date_time_utc": "2026-10-17T12:00:00Z"
+        },
+        {
+          "code": "05wu2",
+          "date_time_utc": "2026-10-18T09:00:00Z"
+        },
+        {
+          "code": "06r2",
+          "date_time_utc": "2026-10-18T13:00:00Z"
+        }
+      ],
+      "name": "Spanish Round"
+    }
+  ],
+  "schema_version": 1,
+  "season_code": "2026",
+  "topic_code": "wwcr"
+}
